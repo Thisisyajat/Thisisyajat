@@ -7,7 +7,7 @@
 - Contributing to community-driven projects
 
 ## 🌱 I’m currently learning ...
-- Python
+- C
 
 ## 💞️ I’m looking to collaborate on ...
 - Open-source projects
